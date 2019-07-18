@@ -1,0 +1,1 @@
+# magento1-spam-user-cleanup
